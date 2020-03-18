@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2017\community\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="15.0">
+ <Targets>
+  <Target Name="Y:\Student\16ИС\МДК.01.01 Эксплуатация ИС\2 подгруппа\Паклина\Новая папка (2)\Boats\Boats\bin\Debug\Boats.exe">
+   <Modules>
+    <Module Name="boats.exe">
+     <Namespaces>
+      <Namespace Name="Boats">
+       <Types>
+        <Type Name="_16is22DataSet" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+AccessoryDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.AccessoryDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+AccToBoatsDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.AccToBoatsDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+AdminDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.AdminDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+BoatsDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.BoatsDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+ClientDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.ClientDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+ContractDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.ContractDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+InvoiceDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.InvoiceDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+ManagerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.ManagerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+OrderDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.OrderDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+OrderDetailDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.OrderDetailDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+PartnerDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.PartnerDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+        <Type Name="_16is22DataSet+UserDataTable" Kind="Class" Accessibility="Public" ExternallyVisible="True">
+         <Messages>
+          <Message TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240" Status="Active" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking">
+           <Issue Certainty="60" Level="Error">Добавьте реализацию GetObjectData к типу '_16is22DataSet.UserDataTable'.</Issue>
+          </Message>
+         </Messages>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="Boats.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2020-03-11 07:22:34Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Избегайте невызываемого частного кода</Name>
+   <Description>Имеется невызываемый код, не видимый извне и не являющийся известной точкой входа во время выполнения. Если это нарушение выведено ошибочно, отправьте отчет об ошибке в группу анализа кода Visual Studio.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="15.0.0.0" />
+  </Rule>
+  <Rule TypeName="ImplementISerializableCorrectly" Category="Microsoft.Usage" CheckId="CA2240">
+   <Name>Правильно реализуйте ISerializable</Name>
+   <Description>Если тип допускает присваивание к ISerializable, он должен реализовать GetObjectData. Для незапечатанных типов производные типы должны иметь возможность вызывать и переопределять метод GetObjectData.</Description>
+   <Resolution Name="Default">Добавьте реализацию GetObjectData к типу {0}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182342.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="60">Error</MessageLevel>
+   <File Name="usagerules.dll" Version="15.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Категория</String>
+  <String Key="Certainty">Достоверность</String>
+  <String Key="CollapseAll">Свернуть все</String>
+  <String Key="CheckId">ИД проверки</String>
+  <String Key="Error">Ошибка</String>
+  <String Key="Errors">ошибки</String>
+  <String Key="ExpandAll">Развернуть все</String>
+  <String Key="Help">Справка</String>
+  <String Key="Line">Строка</String>
+  <String Key="Messages">сообщения</String>
+  <String Key="LocationNotStoredInPdb">[расположение не сохранено в PDB]</String>
+  <String Key="Project">Проект</String>
+  <String Key="Resolution">Разрешение</String>
+  <String Key="Rule">Правило</String>
+  <String Key="RuleFile">Файл правил</String>
+  <String Key="RuleDescription">Описание правила</String>
+  <String Key="Source">Источник</String>
+  <String Key="Status">Состояние</String>
+  <String Key="Target">Цель</String>
+  <String Key="Warning">Предупреждение</String>
+  <String Key="Warnings">предупреждения</String>
+  <String Key="ReportTitle">Отчет по анализу кода</String>
+ </Localized>
+</FxCopReport>
